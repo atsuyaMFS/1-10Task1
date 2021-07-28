@@ -1,1 +1,0 @@
-DMM WEB CAMP HTML/CSS 10章「課題：レスポンシブ対応をさせよう」
